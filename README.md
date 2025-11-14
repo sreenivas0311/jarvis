@@ -270,10 +270,4 @@ Then:
 
 ---
 
-# 💙 **Credits**
-
-Developed by: **Your Name**  
-Built with NLP, Python automation, STT integration & troubleshooting.
-
-If you like this project, ⭐ star the repository!
 
